@@ -21,3 +21,7 @@ or derive yourself. Visualise any interesting correlations using a scatter plot.
 - Build a simple regression model to predict the annual salary for each customer using the attributes you identified above. 
 - How accurate is your model? Should ANZ use it to segment customers into income brackets for reporting purposes?
 - For a challenge: build a decision-tree based model to predict salary. Does it perform better? How would you accurately test the performance of this model? 
+
+## YouTube
+- [Task 1: Exploratory Data Analysis](https://www.youtube.com/watch?v=fX237OP1UAs)
+- [Task 2: Predictive Analytics](https://www.youtube.com/watch?v=WrtDmNhyJv8)
